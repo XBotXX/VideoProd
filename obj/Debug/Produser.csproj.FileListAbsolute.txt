@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Produser\bin\Debug\Produser.exe.config
+C:\Users\User\source\repos\Produser\bin\Debug\Produser.exe
+C:\Users\User\source\repos\Produser\bin\Debug\Produser.pdb
+C:\Users\User\source\repos\Produser\obj\Debug\Produser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Produser\obj\Debug\Produser.exe
+C:\Users\User\source\repos\Produser\obj\Debug\Produser.pdb
+C:\Users\User\Desktop\Проект по практике\Produser\obj\Debug\Produser.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Проект по практике\Produser\obj\Debug\Produser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проект по практике\Produser\obj\Debug\Produser.exe
+C:\Users\User\Desktop\Проект по практике\Produser\obj\Debug\Produser.pdb

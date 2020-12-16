@@ -1,0 +1,25 @@
+C:\Users\User\source\repos\Produser\bin\Release\Produser.exe.config
+C:\Users\User\source\repos\Produser\bin\Release\Produser.exe
+C:\Users\User\source\repos\Produser\bin\Release\Produser.pdb
+C:\Users\User\source\repos\Produser\bin\Release\AForge.dll
+C:\Users\User\source\repos\Produser\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\User\source\repos\Produser\bin\Release\AForge.Video.dll
+C:\Users\User\source\repos\Produser\bin\Release\AForge.xml
+C:\Users\User\source\repos\Produser\bin\Release\AForge.Video.xml
+C:\Users\User\source\repos\Produser\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\User\source\repos\Produser\obj\Release\Produser.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Produser\obj\Release\Produser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Produser\obj\Release\Produser.csproj.CopyComplete
+C:\Users\User\source\repos\Produser\obj\Release\Produser.exe
+C:\Users\User\source\repos\Produser\obj\Release\Produser.pdb
+C:\Users\User\Desktop\Проект по практике\Produser\bin\Release\Produser.exe.config
+C:\Users\User\Desktop\Проект по практике\Produser\bin\Release\Produser.exe
+C:\Users\User\Desktop\Проект по практике\Produser\bin\Release\Produser.pdb
+C:\Users\User\Desktop\Проект по практике\Produser\bin\Release\AForge.xml
+C:\Users\User\Desktop\Проект по практике\Produser\bin\Release\AForge.Video.xml
+C:\Users\User\Desktop\Проект по практике\Produser\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\User\Desktop\Проект по практике\Produser\obj\Release\Produser.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Проект по практике\Produser\obj\Release\Produser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проект по практике\Produser\obj\Release\Produser.csproj.CopyComplete
+C:\Users\User\Desktop\Проект по практике\Produser\obj\Release\Produser.exe
+C:\Users\User\Desktop\Проект по практике\Produser\obj\Release\Produser.pdb
